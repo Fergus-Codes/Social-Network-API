@@ -28,6 +28,8 @@ This app forms the foundation of a full-stack social network using MongoDB for t
 
 ## Video walkthrough:
 
+https://drive.google.com/file/d/1T1UPemR-ry-RKRfu5m8Y0AIx1SSpmmnO/view
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
